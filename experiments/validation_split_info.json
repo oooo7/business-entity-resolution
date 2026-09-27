@@ -1,0 +1,26 @@
+{
+  "seed": 42,
+  "val_ratio": 0.2,
+  "train_split": {
+    "number_of_s1_entities": 1765456,
+    "number_of_0_match_entities": 98598,
+    "number_of_1_match_entities": 95325,
+    "number_of_2plus_match_entities": 1571533,
+    "country_distribution": {
+      "US": 1058906,
+      "India": 706550
+    },
+    "total_ground_truth_matches": 6111629
+  },
+  "val_split": {
+    "number_of_s1_entities": 441365,
+    "number_of_0_match_entities": 24649,
+    "number_of_1_match_entities": 23832,
+    "number_of_2plus_match_entities": 392884,
+    "country_distribution": {
+      "US": 264727,
+      "India": 176638
+    },
+    "total_ground_truth_matches": 1526736
+  }
+}

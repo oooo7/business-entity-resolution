@@ -1,0 +1,2 @@
+experiment_id,date,description,blocking_strategy,candidate_recall,candidate_count,model,threshold,macro_precision,macro_recall,macro_f0_5,notes,decision
+EXP-000,2026-09-27,Baseline Infrastructure and EDA Setup,N/A,N/A,N/A,Infrastructure/EDA,N/A,N/A,N/A,N/A,Initial setup of data loading evaluation and blocking recall infrastructure,ACCEPTED

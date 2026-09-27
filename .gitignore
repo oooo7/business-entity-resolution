@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Project / Competition Data (DO NOT COMMIT MILLIONS OF TSV RECORDS)
+dataset/
+student_resource/dataset/
+*.tsv
+*.csv.gz
+
+# IDE & OS
+.DS_Store
+.vscode/
+.idea/
+.pytest_cache/
+scratch/

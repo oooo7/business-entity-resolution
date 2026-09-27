@@ -1,0 +1,59 @@
+{
+  "pair_diagnostics": {
+    "sampled_pairs_count": 100000,
+    "name_raw_exact_pct": 4.6129999999999995,
+    "name_normalized_exact_pct": 25.643,
+    "name_normalized_core_exact_pct": 43.214999999999996,
+    "addr_raw_exact_pct": 2.237,
+    "addr_normalized_exact_pct": 8.27
+  },
+  "collision_diagnostics": {
+    "total_s1_records": 2206821,
+    "unique_normalized_core_keys": 1322856,
+    "collided_unique_keys_count": 203582,
+    "records_involved_in_collisions": 1087547,
+    "collision_record_pct": 49.281160547230606,
+    "largest_collision_groups": [
+      {
+        "normalized_key": "meridian",
+        "record_count": 554
+      },
+      {
+        "normalized_key": "cedar",
+        "record_count": 335
+      },
+      {
+        "normalized_key": "summit",
+        "record_count": 327
+      },
+      {
+        "normalized_key": "cascade",
+        "record_count": 325
+      },
+      {
+        "normalized_key": "family center",
+        "record_count": 319
+      },
+      {
+        "normalized_key": "helios",
+        "record_count": 318
+      },
+      {
+        "normalized_key": "sterling",
+        "record_count": 313
+      },
+      {
+        "normalized_key": "sapphire",
+        "record_count": 308
+      },
+      {
+        "normalized_key": "ear nose throat group",
+        "record_count": 307
+      },
+      {
+        "normalized_key": "granite",
+        "record_count": 306
+      }
+    ]
+  }
+}
